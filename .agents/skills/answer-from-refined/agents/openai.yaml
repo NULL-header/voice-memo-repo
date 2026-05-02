@@ -1,0 +1,4 @@
+interface:
+  display_name: "Answer from Refined"
+  short_description: "Answer questions using only refined notes"
+  default_prompt: "Use $answer-from-refined to answer my question from refined notes only."
