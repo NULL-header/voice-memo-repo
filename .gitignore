@@ -1,0 +1,5 @@
+# Text organization flow outputs
+tmp.md
+clean.md
+refined/*
+!refined/.gitkeep
