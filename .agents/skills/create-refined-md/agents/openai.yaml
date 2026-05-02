@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create refined memo"
+  short_description: "Create a new refined Markdown note from clean.md."
+  default_prompt: "Use $create-refined-md to create a new refined Markdown file from clean.md."
