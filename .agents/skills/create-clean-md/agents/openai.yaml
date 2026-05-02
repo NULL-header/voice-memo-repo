@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create clean.md"
+  short_description: "Clean this repository's voice-input tmp.md into clean.md without summarizing."
+  default_prompt: "Create clean.md from tmp.md according to this repository's voice memo cleanup rules."
