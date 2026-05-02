@@ -1,0 +1,4 @@
+interface:
+  display_name: "Run voice memo flow"
+  short_description: "Run clean, refine, then clean up temporary memo files."
+  default_prompt: "Use $run-voice-memo-flow to process tmp.md into a refined memo and clean up temporary files."
